@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+settings/
+console.properties
+bin/
+Libs/
+Reports/
